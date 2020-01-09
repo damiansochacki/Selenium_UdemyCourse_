@@ -1,2 +1,2 @@
-# Selenium_UdemyCourse_
+# Selenium_UdemyCourse
 Projects &amp; exercises from Selenium Udemy course
